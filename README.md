@@ -54,6 +54,4 @@ table "songs"
 
 * You can use the `resource`, `model`, `migration`, and `controller` generators, but do not use the `scaffold` generator
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-cru-form_for-lab' title='CRU with form_for Lab'>CRU with form_for Lab</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rails-cru-form_for-lab'>CRU Rails Lab </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CRU with form_for Lab</p>
